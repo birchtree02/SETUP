@@ -8,7 +8,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # TODO download .tmux.conf
 
 cd ~/
-curl https://github.com/birchtree02/SETUP/raw/main/.tmux.conf
+curl https://raw.githubusercontent.com/birchtree02/SETUP/main/.tmux.conf
 
 sudo apt install zsh
 
